@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some web pojects<br>👯 I’m looking to collaborate on weather<br>🌱 I’m currently learning Some Languages<br>💬 Ask me about anything<br>⚡ Fun fact : I'm batman
+🔭 I’m currently working on some web projects<br>👯 I’m looking to collaborate on weather<br>🌱 I’m currently learning Some Languages<br>💬 Ask me about anything<br>⚡ Fun fact : I'm batman
 
 
 ## 🌐 Socials:
