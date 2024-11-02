@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some web projects<br>👯 I’m looking to collaborate on weather<br>🌱 I’m currently learning Some Languages<br>💬 Ask me about anything<br>⚡ Fun fact : I'm batman
-
+🔭 I’m currently working on some web projects<br>👯 I’m looking to collaborate on weather<br>🌱 I’m currently learning Some Languages<br>💬 Ask me about anything<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/pramu-cc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pramu.cc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pramu.cc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pramu-cc) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pramu.cc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pramu_cc) 
